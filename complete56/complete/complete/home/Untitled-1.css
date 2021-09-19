@@ -1,0 +1,14 @@
+h3 {
+    text-align:center;
+    color: rgb(19, 20, 20);
+}
+img {
+    padding: 20px;
+    background-position: top center;
+}
+p {
+    text-align: center;
+}
+a:hover {
+    color: darkcyan;
+}
